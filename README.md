@@ -1,6 +1,3 @@
-Sure! Here's a detailed README for your "CricketT20_DataAnalysis" GitHub repository:
-
----
 
 # CricketT20_DataAnalysis
 
